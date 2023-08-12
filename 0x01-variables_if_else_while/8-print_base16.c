@@ -2,14 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
- /**
+/**
   * main - Entry point
   *  Description: Prints numbers in base 16, from 0 to 9 and then a to f
   * Return: Always 0 (Success)
   */
 
 int main(void)
-
 {
 
 	int d;
