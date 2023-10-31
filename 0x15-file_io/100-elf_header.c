@@ -44,7 +44,6 @@ exit(98);
 /**
 * print_magic - this function prints the magic numbers of an ELF header.
 * @e_ident: this is a pointer to an array containing the ELF magic numbers.
-*
 * Description: magic numbers will be separated by spaces.
 * Return: this function returns void
 */
